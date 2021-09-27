@@ -29,8 +29,10 @@
 
 <h3 align="center">🍒 Blog 🍒</h3>
 
-<div align="center" style="text-align:center">
-  <img src="https://img.shields.io/badge/Woonsik Tech Blog-100000?style=for-the-badge&logo&logoColor=black&link=https://ws-pace.tistory.com"/></a>&nbsp
+<div align=center>
+
+  [![Tech Blog Badge](https://img.shields.io/badge/-Woonsik%20Tech%20Blog-black?style=for-the-badge&logo=github&link=https://ws-pace.tistory.com/)](https://ws-pace.tistory.com/) 
+  
 </div>
 
 <br>
@@ -40,7 +42,8 @@
 
 <!--
 
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 
 **choiwoonsik/choiwoonsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
