@@ -37,7 +37,7 @@
 
 <br>
 
-## Github STAT
+## Git Stats
 [![woonsik's github stats](https://github-readme-stats.vercel.app/api?username=choiwoonsik)](https://github.com/choiwoonsik/github-readme-stats)
 
 <!--
