@@ -27,11 +27,21 @@
 
 <br>
 
-<h3 align="center">🍒 Blog 🍒</h3>
+<h3 align="center">🍒 기술 블로그 Click 🍒</h3>
 
 <div align=center>
 
-  [![Tech Blog Badge](https://img.shields.io/badge/-Woonsik%20Tech%20Blog-black?style=for-the-badge&logo=github&link=https://ws-pace.tistory.com/)](https://ws-pace.tistory.com/) 
+  [![Tech Blog Badge](https://img.shields.io/badge/-Woonsik%20Tech%20Blog-black?style=for-the-badge&link=https://ws-pace.tistory.com/)](https://ws-pace.tistory.com/) 
+  
+</div>
+
+<br>
+
+<h3 align="center">📕 포트폴리오 Link Click 📕</h3>
+
+<div align=center>
+  
+  [![Portfolio Badge](https://img.shields.io/badge/-Woonsik%20Portfolio-black?style=for-the-badge&link=https://choiwoonsik.github.io/)](https://choiwoonsik.github.io/) 
   
 </div>
 
