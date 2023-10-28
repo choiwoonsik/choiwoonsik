@@ -27,7 +27,7 @@
 
 <br>
 
-<h3 align="center">🍒 기술 블로그 Click 🍒</h3>
+<h3 align="center">🍒 기술 블로그 링크 ⬇️ 🍒</h3>
 
 <div align=center>
 
@@ -37,7 +37,7 @@
 
 <br>
 
-<h3 align="center">📕 포트폴리오 Link Click 📕</h3>
+<h3 align="center">📕 포트폴리오 링크 ⬇️ 📕</h3>
 
 <div align=center>
   
