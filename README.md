@@ -1,6 +1,5 @@
 <h1 align="center">Hi! I'm Backend Developer Woonsik Choi 🐳</h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoiwoonsik&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woonsik.dev@gmail.com)](mailto:woonsik.dev@gmail.com)
 
 <br>
@@ -41,7 +40,7 @@
 
 <div align=center>
   
-  [![Portfolio Badge](https://img.shields.io/badge/-Woonsik%20Portfolio-black?style=for-the-badge&link=https://choiwoonsik.github.io/)](https://choiwoonsik.github.io/) 
+  [![Portfolio Badge](https://img.shields.io/badge/-Woonsik%20Portfolio-black?style=for-the-badge&link=https://www.notion.so/woonsik/a0d8790f0e8e4f21bf3e8f599aa77a33/)](https://www.notion.so/woonsik/a0d8790f0e8e4f21bf3e8f599aa77a33/) 
   
 </div>
 
